@@ -21,6 +21,7 @@ How to:
 
 Future plans:
 
-  script creates own alias
-  help-page
+  -script creates own alias
+  
+  -help-page
  
