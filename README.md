@@ -5,7 +5,7 @@ It basicly takes your input (as a string) and translates it via md5sum into a ha
 
 This is version 1.0 and i try do update it frequently
 
-How to:
+# How to:
   
   install this git-repo:
   
@@ -19,7 +19,7 @@ How to:
       you have your personal identicon made from the hash of your loginname.
 
 
-Future plans:
+# Future plans:
 
   -script creates own alias
   
