@@ -11,17 +11,7 @@ This is version 1.0 and i try do update it frequently
   
       git clone https://github.com/junglert/identicon-generator.git
   
-  let the script do its magic:
-  
-      Enter your github loginname or an LDAP, etc. 
-      The script will automaticly create a link to githubs identicon parser.
-      Right click on the link and select open with browser xy and voila,
-      you have your personal identicon made from the hash of your loginname.
-
-
-# Future plans:
-
-  -script creates own alias
-  
-  -help-page
- 
+  Enter your github loginname, nickname, etc. 
+  The script will automatically create a link to githubs identicon parser.
+  Right click on the link and select open with browser xy and voila,
+  you have your personal identicon made from the hash of your loginname.
